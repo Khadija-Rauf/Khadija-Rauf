@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Khadija</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khadija-rauf&label=Profile%20views&color=0e75b6&style=flat" alt="khadija-rauf" /> </p>
 
 
 ## 🙋‍♀️ About Me
@@ -28,4 +27,5 @@
 <img align = "left" width="48%"  src="https://github-readme-stats.vercel.app/api?username=khadija-rauf&show_icons=true&locale=en&theme=radical" alt="khadija-rauf" />
 <img width="48%" "center" src="https://github-readme-streak-stats.herokuapp.com/?user=khadija-rauf&theme=radical" alt="khadija-rauf" />
 </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadija-rauf&label=Profile%20views&color=0e75b6&style=flat" alt="khadija-rauf" /> </p> -->
 <!-- <img align = "left" width="40%" height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khadija-rauf&layout=compact&langs_count=15&theme=radical" alt="khadija-rauf" /> -->
