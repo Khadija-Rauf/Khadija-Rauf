@@ -4,7 +4,7 @@
 ## 🙋‍♀️ About Me
 - 🔭 I’m currently studying **Computer Science** at PUCIT
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 Ready to dive into **Spring Boot** and emerge stronger.
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/khadija-rauf-7abba6203/)
 
