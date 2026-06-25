@@ -6,11 +6,9 @@
 
 - 🌱 Computer Science graduate from PUCIT, Lahore.
 
-- 🔭 Passionate about backend development, clean code, and scalable applications.
+- 🤝 Passionate about backend development, clean code, and scalable applications.
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/khadija-rauf-7abba6203/)
-
-- 🤝 Enthusiastic about using new technologies
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Khadija-Rauf)
 
