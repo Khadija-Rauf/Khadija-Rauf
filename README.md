@@ -2,9 +2,11 @@
 
 
 ## 🙋‍♀️ About Me
-- 🔭 I’m currently studying **Computer Science** at PUCIT
+- 🔭 Java Spring Boot Developer specializing in backend development and RESTful APIs.
 
-- 🌱 Ready to dive into **Spring Boot** and emerge stronger.
+- 🌱 Computer Science graduate from PUCIT, Lahore.
+
+- 🔭 Passionate about backend development, clean code, and scalable applications.
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/khadija-rauf-7abba6203/)
 
